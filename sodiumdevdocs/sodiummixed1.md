@@ -7,10 +7,14 @@
    
 <h3 id="1">1.安装IDE</h3>
 通常情况下，写mod所用的IDE可以是~~jb~~的IDEA，可以是Eclipse，也可以是微软的vscode，~~包括但不限于记事本~~。
+
 更多详情请见fabric开发文档：
+
 [fabric wiki](https://fabricmc.net/wiki/zh_cn:start)
+
 本章以IDEA为例
 下载IDEA：
+
 [IDEA](https://www.jetbrains.com/zh-cn/idea/)
 
 <h3 id="2">2.构建sodium</h3>
