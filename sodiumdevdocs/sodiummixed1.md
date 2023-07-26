@@ -43,4 +43,5 @@ Oracle的链接可能会很慢，建议用镜像站:
 ```
 java -version
 ```
+(sodium 1.16.5next所适合的jdk为java11)
    
