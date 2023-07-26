@@ -1,4 +1,4 @@
-y~~现在是构建时间～~~
+~~现在是构建时间～~~
 
 # 构建sodium的开发环境
 
@@ -38,8 +38,10 @@ Oracle的链接可能会很慢，建议用镜像站:
 
 [华为jdk镜像站](https://repo.huaweicloud.com/java/jdk/)
 
+输入<kbd>win</kbd>+R,打开cmd。
 查看jdk版本
 ```
+java
 java -version
 ```
    
