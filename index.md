@@ -1,5 +1,5 @@
 ~~都是乱写的~~
 # sodium修改日志
-[sodium修改目录](./sodiumdevdocs/sodiummixed.html)
+[sodium修改目录](./sodiumdevdocs/sodiummixed.md)
 
 
