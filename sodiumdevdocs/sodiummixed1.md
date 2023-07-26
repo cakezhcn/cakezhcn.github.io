@@ -30,4 +30,16 @@ sodium github仓库地址：
 
 <h3 id="3">3.正确安装合适的jdk-version</h3>
 
+安装jdk:
+
+[Oracle](https://www.oracle.com/java/technologies/downloads/)
+
+Oracle的链接可能会很慢，建议用镜像站:
+
+[华为jdk镜像站](https://repo.huaweicloud.com/java/jdk/)
+
+查看jdk版本
+```
+java -version
+```
    
