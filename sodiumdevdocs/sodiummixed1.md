@@ -41,7 +41,6 @@ Oracle的链接可能会很慢，建议用镜像站:
 输入<kbd>win</kbd>+R,打开cmd。
 查看jdk版本
 ```
-java
 java -version
 ```
    
