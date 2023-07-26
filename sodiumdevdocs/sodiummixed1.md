@@ -4,6 +4,7 @@
 
  * [1.安装IDE](#1)
  * [2.获取sodium](#2)
+ * [3.正确安装合适的jdk-version](#3)
    
 <h3 id="1">1.安装IDE</h3>
 通常情况下，写mod所用的IDE可以是~~jb~~的IDEA，可以是Eclipse，也可以是微软的vscode，~~包括但不限于记事本~~。
