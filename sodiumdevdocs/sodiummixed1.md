@@ -5,6 +5,7 @@
  * [1.安装IDE](#1)
  * [2.获取sodium](#2)
  * [3.正确安装合适的jdk-version](#3)
+ * [4.打开sodium！](#4)
    
 <h3 id="1">1.安装IDE</h3>
 通常情况下，写mod所用的IDE可以是~~jb~~的IDEA，可以是Eclipse，也可以是微软的vscode，~~包括但不限于记事本~~。
@@ -44,4 +45,8 @@ Oracle的链接可能会很慢，建议用镜像站:
 java -version
 ```
 (sodium 1.16.5next所适合的jdk为java8或以上)
+
+<h3 id="4">4.打开sodium！
+
+
    
